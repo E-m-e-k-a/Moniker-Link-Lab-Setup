@@ -1,3 +1,5 @@
+Part of my SOC Analyst portfolio (https://github.com/E-m-e-k-a/SOC-Analyst-Portfolio)
+
 # Moniker Link Lab Setup - CVE-2024-21413
 
 ## 🎯 Project Overview
